@@ -267,3 +267,16 @@ body {
   font-size: 14px;
   margin-top: 10px;
 }
+
+/* Gallery Section */
+.gallery-container {
+  display: flex;
+}
+
+.image {
+  max-width: 100%;
+}
+
+.image img {
+  width: 100%;
+}
